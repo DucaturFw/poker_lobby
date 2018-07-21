@@ -1,0 +1,5 @@
+export const ACCOUNT_INIT = {};
+export const ACCOUNT_NEW = 'POKER/ACCOUNT/NEW';
+export const ACCOUNT_REG = 'POKER/ACCOUNT/REG';
+export const ACCOUNT_INFO_RESULT = 'POKER/ACCOUNT/INFO_RES';
+export const ACCOUNT_LOAD = 'POKER/ACCOUNT/LOAD';
