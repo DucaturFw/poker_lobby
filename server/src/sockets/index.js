@@ -1,4 +1,5 @@
 const IO = require('socket.io');
+const axios = require('axios');
 const clients = {};
 const tables = {};
 const GAME_TIMEOUT = 10000;
